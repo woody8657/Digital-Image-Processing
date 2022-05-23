@@ -6,4 +6,4 @@ HW3: Morphological Processing + Textutre Analysis
 HW4: Digital Halftoning + Image Sampling  
 Final Project: Visual Cryptography, see my another repository [HVC-VAC](https://github.com/woody8657/HVC-VAC_Authentication)  
 ![image](./HW3/hw3_sample_images/sample2.png)![image](./HW3/result7.png)
-<img src="[https://github.com/倉庫名/專案名/blob/master/m/20200424230237910.jpg](https://github.com/woody8657/Digital-Image-Processing/blob/main/HW3/hw3_sample_images/sample2.png)" width="50%" alt=""/>
+<img src="./HW3/hw3_sample_images/sample2.png)" width="50%" alt=""/>
